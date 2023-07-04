@@ -92,7 +92,7 @@ function createEventsFromSheet(calendar, sheet) {
         const start = eventCellText.indexOf(eventTitleEntry);
         const end = start + eventTitleEntry.length - 1;
         const eventUrl = eventCellRichTextValue.getLinkUrl(start, end);
-        const eventUrlText = `${eventUrl}<br><br></br>`;
+        let eventUrlText = `${eventUrl}<br><br></br>`;
         if (!eventUrl) {
           eventUrlText = "";
         }
