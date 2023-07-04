@@ -92,8 +92,12 @@ function createEventsFromSheet(calendar, sheet) {
         const start = eventCellText.indexOf(eventTitleEntry);
         const end = start + eventTitleEntry.length - 1;
         const eventUrl = eventCellRichTextValue.getLinkUrl(start, end);
+        const eventUrlText = `${eventUrl}<br><br></br>`;
+        if (!eventUrl) {
+          eventUrlText = "";
+        }
         calendar.createAllDayEvent(eventTitleCleaned, date, {
-          description: `${eventUrl}<br><br><b><a href="${spreadsheetUrl}#gid=${sheetId}&range=${eventNameColumn
+          description: `${eventUrlText}<b><a href="${spreadsheetUrl}#gid=${sheetId}&range=${eventNameColumn
             .getCell(j + 1, 1)
             .getA1Notation()}">Click here to see this event in the Year Calendar spreadsheet</a></b>`,
         });
