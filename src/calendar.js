@@ -32,7 +32,7 @@ function syncEventsWithGoogleCalendar() {
  *
  * @param {Calendar} calendar - The calendar to be searched.
  * @param {Date} dateStart - The start date from which events should be deleted (inclusive).
- * @param {Date} endDate - The end date from which events should be deleted (inclusive).
+ * @param {Date} dateEnd - The end date from which events should be deleted (inclusive).
  */
 function deleteEvents(calendar, dateStart, dateEnd) {
   let events = calendar.getEvents(dateStart, dateEnd);
