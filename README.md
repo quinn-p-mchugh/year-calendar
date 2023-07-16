@@ -4,7 +4,7 @@
 
 ## 👉 [Get the spreadsheet](https://docs.google.com/spreadsheets/d/1UezLLrUs2CTYpgBbuxlh0Mds6k-ykcy1hNU9sLdnbeQ/copy)
 
-![YearSpread Demo](https://github.com/quinn-p-mchugh/year-spread/assets/40648753/47d0a419-ebc2-401a-904f-4a6e9988869c)
+![YearSpread Demo](https://github.com/quinn-p-mchugh/year-spread/assets/40648753/546dd129-abb7-49c3-9f0a-3a358535285c)
 
 ## 🔮 Features
 - "Year at a glance" - easily keep track of and visualize important events, trips, and more throughout your entire year, without the clutter of your day-to-day calendar events.
