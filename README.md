@@ -8,7 +8,7 @@
 
 ## 🔮 Features
 - "Year at a glance" - easily keep track of and visualize important events, trips, and more throughout your entire year, without the clutter of your day-to-day calendar events.
-- One-way sync spreadsheet entries to your preferred Google Calendar, so you can be reminded when the times 
+- One-way sync spreadsheet entries to your preferred Google Calendar. 
 - Create multiple calendar events per day.
 - Dynamic weekend highlighting based on year.
 
