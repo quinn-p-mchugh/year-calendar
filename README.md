@@ -15,4 +15,4 @@
 ## 📝 [Docs](https://www.quinnmchugh.net/projects/year-spread)
 
 ## Credits
-This resource was inspired by Ali Abdaal's [Year at a Glance template](https://aliabdaal.com/year-in-a-glance-template/), which I found through [this video](https://youtu.be/6o2tm00Ar8A?si=ZiqSR8DSznS0rF2b&t=43). Ali has lots of other great productivity tools & tips on [their Youtube channel](https://www.youtube.com/@aliabdaal).
+This resource was inspired by Ali Abdaal's [Year in a Glance template](https://aliabdaal.com/year-in-a-glance-template/), which I found through [this video](https://youtu.be/6o2tm00Ar8A?si=ZiqSR8DSznS0rF2b&t=43). Ali has lots of other great productivity tools & tips on [their Youtube channel](https://www.youtube.com/@aliabdaal).
